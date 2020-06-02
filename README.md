@@ -10,18 +10,10 @@ Integration of backend with frontend
 Setting it up
 If you want to contribute and improve the project, follow the steps given below -
 
-Clone the project
-USING SSH > git clone git@github.com:/SmartBrain.git
-USING HTTPS > git clone https://github.com//SmartBrain.git
-The project has frontend and backend files in seperate folder. Follow these steps:
-
-cd face_detection_api
-npm install
-npm start
-NOW
-cd face_detection_api
-npm install
-npm start
+To Run the project:
+run: "npm install" to install all the dependencies.
+run: "npm start" to start the server.
+now search for "localhost:3000" in the search bar of your browser to access it.
 
 Remember :-
 The project uses CLARIFAI API, so you need to configure or add a api key by yourself.
