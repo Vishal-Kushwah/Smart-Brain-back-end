@@ -1,3 +1,6 @@
+To access the website of the above project go through the link: https://smart-brain-0001.herokuapp.com/
+
+
 A project to understand:-
 FrontEnd
 JavaScript
